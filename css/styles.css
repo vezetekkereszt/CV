@@ -1,0 +1,132 @@
+body {
+    background-color: #AD8B73;
+    margin: 0%;
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+.top {
+    background-color: #AD8B73;
+    color: #FFFBE9;
+    position: relative;
+    padding-top: 120px;
+    font-family: 'Caveat', cursive;
+    font-size: 2.25rem; 
+}
+
+hr {
+    margin-top: 8%;
+}
+
+#cvProfile {
+    margin-top: 12%;
+    margin-bottom: 2%;
+    border-radius: 30%;
+    width: 16%;
+    height: 16%;
+}
+
+h1 {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+h2 {
+    font-size: 500%;
+    color: #17583f;
+}
+
+h3 {
+    color: #FFFBE9;
+    font-style:oblique;
+    margin-bottom: 5%;
+    font-size: 2.5rem;
+
+}
+
+#below-top {
+    margin-top: 1%;
+    font-size: larger;
+}
+
+#cloud1 {
+    position: absolute;
+}
+
+#cloud2 {
+    position: relative;
+    left: 260px;
+}
+
+.skill-rowP {
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-imgP {
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin: auto 5% auto auto;
+}
+
+.skill-imgW {
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin: auto auto auto 5%;
+}
+
+.skill-rowW {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.bottom-container {
+    margin: 0%;
+    padding: 40px 0 80px 0;
+    background-color: #CEAB93;
+    word-spacing: 100px;
+}
+
+.contact-me {
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+.footer-link {
+    color: #594545;
+    font-size: 200%;
+}
+
+.last {
+    word-spacing: 0rem;
+    font-size: 100%;
+    padding-top: 30px;
+}
+
+p {
+    font-size: 180%;
+}
+
+h4 {
+    font-size: 140%;
+    margin-top: 10px;
+}
+
+.btn {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    background-color: #17583f;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    border-radius: 50%;
+}
